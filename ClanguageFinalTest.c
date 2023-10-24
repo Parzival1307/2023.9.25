@@ -22,5 +22,7 @@ int main()
 		}
 		printf("\n");
 	}
+	//“i++"means"Positive sequence reading from exp.1 to exp.2"
+	//"i--"means"Reverse sequence reading"
 	return 0;
 }
